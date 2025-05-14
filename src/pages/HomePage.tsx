@@ -7,6 +7,7 @@ import ExitPopup from '../components/ExitPopup';
 
 export default function HomePage() {
   return (
+    <meta name="fo-verify" content="9f04a6fe-0c5f-4330-a0ae-fe7247766e1a" />
     <div className="min-h-screen bg-gray-50">
       <Navigation />
 
